@@ -1,12 +1,12 @@
 # Site settings
 title: BITCOIN FAUCET - MOONBIT BITCOIN HACK - FREEBITCO.IN 
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: ganasatoshis, bitcoin, satoshi, btc, earn, invertir desde casa, faucet, ganar dinero, criptomonedas, crypto, cryptonews # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: ganasats
 
 # Build settings
 markdown: kramdown
